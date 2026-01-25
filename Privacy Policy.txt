@@ -1,0 +1,45 @@
+#========================================
+Privacy Policy
+Effective Date: 2026 Estuary Interactive
+#========================================
+
+At Estuary Interactive, we prioritize your privacy. This Privacy Policy outlines how we handle information in our game (the "Software").
+#--------------------
+1. No Data Collection
+#--------------------
+We believe in a "privacy-first" approach. This Software does not collect, store, or transmit any personal data or personally identifiable information (PII). This includes, but is not limited to:
+
+Names, email addresses, or contact information.
+
+Device IDs, IP addresses, or location data.
+
+Usage statistics or behavioral analytics.
+
+#--------------------------------
+2. No Accounts or Online Services
+#--------------------------------
+The Software operates as a standalone application. It does not require you to create an account, log in, or connect to any online services managed by the developer.
+
+#-----------------
+3. Local Data Only
+#-----------------
+Any data generated during gameplay (such as game progress, settings, or high scores) is stored locally on your device.
+
+We do not have access to your local save files.
+
+Deleting the Software may result in the permanent loss of this locally stored data, as we do not provide cloud synchronization.
+
+#-----------------------
+4. Third-Party Platforms
+#-----------------------
+If you purchase or download this Software through a third-party platform (such as Steam, itch.io, or Google Play), that platform may collect data according to their own privacy policies. We encourage you to review the privacy terms of the platform you use.
+
+#------------------------
+5. Changes to This Policy
+#------------------------
+We reserve the right to update this Privacy Policy if we add new features to the game. However, our commitment to your privacy will remain a priority.
+
+#------------
+6. Contact Us
+#------------
+If you have any questions regarding this Privacy Policy, you may contact us through our official distribution channels, estuaryinteractive@gmail.com

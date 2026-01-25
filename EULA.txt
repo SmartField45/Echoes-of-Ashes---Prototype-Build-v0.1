@@ -1,0 +1,44 @@
+#=========================================================
+END USER LICENSE AGREEMENT (EULA)
+Copyright © 2026 Estuary Interactive. All Rights Reserved.
+#=========================================================
+
+#-----------------
+1. LICENSE GRANT
+#-----------------
+Estuary Interactive ("Author") grants you a non-exclusive, non-transferable, limited license to install and use this Game (the "Software") for personal, non-commercial entertainment purposes only. This license applies to both the Demo version and the Full version of the Software.
+
+#----------------
+2. RESTRICTIONS
+#----------------
+You are strictly prohibited from:
+
+Decompiling/Reverse Engineering: You may not copy, modify, disassemble, or decompile the source code of the Software.
+
+Asset Protection: All original artistic assets (graphics, music, characters, and 3D models) created by Estuary Interactive are proprietary. You may not extract, reuse, or redistribute these assets in any form.
+
+Redistribution: You may not sell, rent, lease, or sub-license this Software to any third party without express written consent from the Author.
+
+#----------------------
+3. THIRD-PARTY ASSETS
+#----------------------
+This Software contains third-party assets used under their respective free or open-source licenses. 
+These assets remain the property of their original creators. 
+The Author does not claim ownership over these specific external materials.
+
+#-------------
+4. OWNERSHIP
+#-------------
+The Software is licensed, not sold. 
+Estuary Interactive retains all rights, titles, and interests in and to the Software, including all intellectual property rights (source code, original assets, and branding).
+
+#---------------
+5. TERMINATION
+#---------------
+This license is effective until terminated. 
+Your rights under this license will terminate automatically without notice if you fail to comply with any terms of this EULA.
+
+#--------------
+6. DISCLAIMER
+#--------------
+THE SOFTWARE IS PROVIDED "AS IS". THE AUTHOR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES RESULTING FROM THE USE OF THIS SOFTWARE.

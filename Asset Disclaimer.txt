@@ -1,0 +1,94 @@
+#=================================
+Asset Disclaimer & Acknowledgments
+Estuary Interactive
+#=================================
+
+#--------------------
+1. Third-Party Assets
+#--------------------
+This Software incorporates visual and audio assets (including but not limited to textures, 3D models, sound effects, and music) sourced from third-party creators.
+
+Ownership: All rights, titles, and interests in these assets belong strictly to their respective original authors.
+
+Licensing: These assets are used under their respective free or open-source licenses (such as Creative Commons, CC0, or specific platform licenses).
+
+Non-Endorsement: The inclusion of these assets does not imply that the original creators endorse this game or Estuary Interactive.
+
+#--------------------
+2. Proprietary Assets
+#--------------------
+All assets not explicitly credited to third parties or found in the public domain are the exclusive property of Estuary Interactive.
+
+Any original character designs, unique UI elements, and custom-written scripts are protected under copyright law.
+
+Unauthorized extraction, redistribution, or commercial use of these proprietary assets is strictly prohibited.
+
+The Asset of Estuary Interactive:
+#~~~~
+Music
+#~~~~
+[Unknown] — [All Right Reserved]
+[Welcome] — [All Rght Reserved]
+[Before] — [All Right Reserved]
+[After] — [All Right Reserved]
+[Expected] — [All Right Reserved]
+
+#~~~~~
+Sprite 
+#~~~~~
+[Arrow Left] — [CC-BY 4.0]
+[Arrow Left Remastered] — [CC-BY 4.0]
+[Arrow Right] — [CC-BY 4.0]
+[Arrow Right Remastered] — [CC-BY 4.0]
+[Arrow Left Hover] — [CC-BY 4.0]
+[Arrow Right Hover] — [CC-BY 4.0]
+
+#-------------
+3. Credit List
+#-------------
+We would like to express our gratitude to the following creators for their contributions to the assets used in this game:
+
+#~~~~~~~~~~~~
+Sound Effect:
+#~~~~~~~~~~~~
+[u_3x9ga8wevj] — [Walking sound effect] — [https://pixabay.com/sound-effects/film-special-effects-walking-sound-effect-272246/] - [Pixabay Content License]
+
+[Data_pion] — [St3 - Footstep sfx] — [https://pixabay.com/sound-effects/film-special-effects-st3-footstep-sfx-323056/] — [Pixabay Content License]
+
+[qubodup(freesound)] — [Sword hit] — [https://pixabay.com/id/sound-effects/film-efek-khusus-sword-hit-7160/] — [Pixabay Content License]
+
+[Driken5482] — [Retro hurt 2] — [https://pixabay.com/es/sound-effects/películas-y-efectos-especiales-retro-hurt-2-236675/] — [Pixabay Content License]
+
+[Universfield] — [Dramatic Death Collapse] — [https://pixabay.com/id/sound-effects/film-efek-khusus-dramatic-death-collapse-352720/] — [Pixabay Content License]
+
+[Audley_Fergine] — [UI Button Click #5] — [https://pixabay.com/sound-effects/film-special-effects-ui-button-click-5-327756/] — [Pixabay Content License]
+
+[Audley_Fergine] — [UI Button Click #3] — [https://pixabay.com/sound-effects/film-special-effects-ui-button-click-3-281574/] — [Pixabay Content License]
+
+[Audley_Fergine] — [UI Button Click #2] — [https://pixabay.com/sound-effects/film-special-effects-ui-button-click-2-280037/] — [Pixabay Content License]
+
+[Hoggington] — [Pain Sound in Mask] — [https://pixabay.com/id/sound-effects/rakyat-pain-sound-in-mask-38698/] — [Pixabay Content License]
+
+[Pdrum] — [Flying monster] — [https://pixabay.com/id/sound-effects/film-efek-khusus-flying-monster-55271/] — [Pixabay Content License]
+
+[yodguard] — [fire magic (3)] — [https://pixabay.com/id/sound-effects/film-efek-khusus-fire-magic-3-378640/] — [Pixabay Content License]
+
+[yodguard] — [fire magic (5)] — [https://pixabay.com/id/sound-effects/film-efek-khusus-fire-magic-5-378639/] — [Pixabay Content License]
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sprite, Tileset and Pixel Art
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Emanuelle Costa] — [Farm RPG FREE 16x16 - Tiny Asset Pack] — [https://emanuelledev.itch.io/farm-rpg] — [More in Link Attached]
+
+[aamatniekss] — [Fantasy Knight - Free Pixelart Animated Character] — [https://aamatniekss.itch.io/fantasy-knight-free-pixelart-animated-character] — [More in Link Attached]
+
+[Free Game Assets (GUI, Sprite, Tilesets)] — [Free Sky Backgrounds] — [https://free-game-assets.itch.io/free-sky-with-clouds-background-pixel-art-set] — [https://craftpix.net/file-licenses/]
+
+[Jestan] — [PixelTreeSet] — [https://jestan.itch.io/trees] — [Creative Commons Zero v1.0 Universal]
+
+[Zerie] — [Tiny RPG Character Asset Pack v1.03] — [https://zerie.itch.io/tiny-rpg-character-asset-pack] — [More in Link Attached]
+
+[Pixel Frog] — [Tiny Swords(Free Pack)] — [https://pixelfrog-assets.itch.io/tiny-swords] — [More in Link Attached]
+
+[CreativeKind] — [Necromancer (Free)] — [https://creativekind.itch.io/necromancer-free] — [More in Link Attached]
+
