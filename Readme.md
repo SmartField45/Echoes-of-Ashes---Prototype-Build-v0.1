@@ -90,9 +90,9 @@ This game is a commercial product by Estuary Interactive.
 
 \* Software License: Please refer to `LICENSE.txt` or `EULA.txt`.
 
-\* Privacy: We respect your privacy. Full details can be found in `PRIVACY\\\_POLICY.txt`.
+\* Privacy: We respect your privacy. Full details can be found in `PRIVACY POLICY.txt`.
 
-\* Assets: Third-party assets are used under their respective license. Full attribution and license details are provided in `ASSET\_DISCLAIMER.txt`.
+\* Assets: Third-party assets are used under their respective license. Full attribution and license details are provided in `ASSET DISCLAIMER.txt`.
 
 
 
